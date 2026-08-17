@@ -1,4 +1,7 @@
 # Business Performance Dashboard – Office Furniture Sales
+## Live Dashboard
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/46e9c9a2-2a6e-415c-aa4a-76c12c4b8765/4140a41001e4905a4a48?experience=power-bi)
 
 ## Project Overview
 
